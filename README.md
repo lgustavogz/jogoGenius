@@ -1,1 +1,1 @@
-Em construção
+Jogo da memória desenvolvido com Javascript
