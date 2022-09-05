@@ -1,1 +1,1 @@
-Jogo da memória desenvolvido com Javascript
+Jogo da memória tipo Genius desenvolvido com Javascript
